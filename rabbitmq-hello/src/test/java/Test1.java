@@ -18,5 +18,6 @@ public class Test1 {
         }
         System.out.println("你好未来");
         System.out.println("我有无限的期望");
+        System.out.println("我会有未来的");
     }
 }
